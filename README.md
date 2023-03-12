@@ -1,4 +1,4 @@
-# Sample Hardhat Project
+# FundRaising Hardhat Project
 
 This project demonstrates a basic Hardhat use case. It comes with a fundraising contract and a test for that contract.
 
